@@ -1,1 +1,2 @@
-# 🚀Ce projet à pour but de pousser toute les connaissances apprise sur la plateforme databricks🚧
+# 🚀DataBricks knowledge🚧
+Ce projet à pour but de pousser toute les connaissances apprise sur la plateforme databricks
